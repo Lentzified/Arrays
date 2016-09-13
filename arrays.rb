@@ -37,3 +37,9 @@ def mod_three?(a)
 
 	false
 end
+
+def is_everywhere?(a)
+
+	
+
+end
